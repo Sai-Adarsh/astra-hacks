@@ -1,11 +1,11 @@
 ## Astra Zeneca Hack 2021
 
 <p align="center">
-  <img src="https://theapprenticeacademy.co.uk/wp-content/uploads/2016/07/astrazenica.gif" width="60%">
+  <img src="https://theapprenticeacademy.co.uk/wp-content/uploads/2016/07/astrazenica.gif">
 </p>
 
 * Reverse engineer Kaplan-Meier (KM) plots from
-scientific literature and digitize them into probabilistic raw data points.
+scientific literature and digitize them into probabilistic raw data points.	
 
 
 ### ☀️ Run Flask Server
@@ -29,3 +29,13 @@ scientific literature and digitize them into probabilistic raw data points.
 * You can deploy your own copy of the API using this button:
 
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+
+### ☀️ Architecture
+
+<p align="center">
+  <img src="docs/img/arch.png">
+</p>
+
+### ❤️ Authors
+
+* Sai Adarsh S., Rajasekar M., Akash C.
