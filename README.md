@@ -5,7 +5,7 @@
 </p>
 
 * Reverse engineer Kaplan-Meier (KM) plots from
-scientific literature and digitize them into probabilistic raw data points.	
+scientific literature and digitize them into probabilistic raw data points.	View our [Pitch deck](https://github.com/Sai-Adarsh/astra-hacks/blob/master/docs/deck/pitchdeck.pdf) here.
 
 
 ### ☀️ Run Flask Server
