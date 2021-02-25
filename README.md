@@ -4,7 +4,8 @@
   <img src="https://theapprenticeacademy.co.uk/wp-content/uploads/2016/07/astrazenica.gif" width="60%">
 </p>
 
-* Flask based API that fetches stock value for Crude oil, Brent oil, gold, Natural gas, silver, copper, US Soybeans from [investing.com](https://www.investing.com/)
+* Reverse engineer Kaplan-Meier (KM) plots from
+scientific literature and digitize them into probabilistic raw data points.
 
 
 ### ☀️ Run Flask Server
